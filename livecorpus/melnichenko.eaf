@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-21T23:46:08+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/valeriabykova/Desktop/melnichenko.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./melnichenko.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:567a7ba4-96c7-49e8-a755-f5991a57b159</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">69</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="65459"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="77459"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="78004"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="80514"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="80982"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="89009"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="89009"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="94502"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="94608"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="104182"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="104858"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="108702"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="108802"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="110009"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="110724"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="111822"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="111832"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="119592"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="120072"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="120375"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="121411"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="132125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="132229"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="137797"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="137989"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="138397"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="142931"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="143011"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="143278"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="156205"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="156654"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="162841"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="163802"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="164767"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="164774"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="170060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="170093"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="171440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="171733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="175993"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="176182"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="190773"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="190986"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="195584"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="196237"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="197625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="197628"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="199405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="200599"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="201371"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="201871"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="202800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="203005"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="209480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="209786"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="221413"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="221586"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="222533"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="222592"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="228114"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="228192"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="238965"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="valeriabykova" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@vam1954m" TIER_ID="text@vam1954m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>аа я не был участником совещания хотя / конечно мы  / эээ / готовились на то что наши люди будут на этом совещании //  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE> то есть я наши люди имею в виду это / аа организаторы Московского экономического форума //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE> а также федерального сельсовета движения общественного на сегодняшний день которое снизу / начинает объединять вот именно сельские / сельских вот жителей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>да / это есть такое дело / да //
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>ну есть такое да / аа / и вот ээ / Константин Анатольевич / Бабкин ээ президент Росагромаша как раз был на этом совещании //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>да / да / у который как раз вот заводы  который один из учредителей этих заводов / который работает и в России комбайны выпускает наш ээ Ростсельмаш вот / это Ростовский да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE> и также в Канаде есть аналогичный завод / который выпускает в Канаде трактора и комбайны //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>да / два завода / да / абсолютно / в разных государствах да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>и вот Константин Анатольевич Путину и сказал что в России / невозможно на данный момент вести промышленное производство / то есть не готова Россия иметь свою экономику промышленную //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>Путин удивился и сказал / Константин Анатольевич  подготовьте мне справку почему вы не переводите  свой завод / в Россию да //
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>да / Константин дал вот эту справку / прямо разместил в интернете / в газетах  / везде // 
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>она в интернете есть вот значит всё то есть Эхо Москвы её разместило / другие да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>и где до копейки / абсолютно анализ полный / вот это настоящая аналитика которая показывает никчемность / промышленной политики Кремля по отношению к российской промышленной политике / именно никче... //  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>
+это очень хороший /  вот значит было задание Путина / как бы да / вопрос //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>я думаю что он обязан был же с этим ознакомиться //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>нет / не надо вот да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>аа / в общем-то я думаю что на... наверно прочитал / если не прочитал мы донесём это до него по-любому вот значит вот пускай//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>мы прямо на кремлёвских камнях это выбьем этот ответ / потому что это нужно / ему знать вот что действительно не / возможно вести / нерентабельно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>почему нерентабельно? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>во-первых вот / налоговая политика по отношению к канадской наша никчемная //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>мы там хвастаемся что у нас якобы самые низкие там / депардье приглашаем / там ещё каких-то артистов / у нас мало своих извиняюсь геев / мы ещё ихних вот сюда возим / #нрзб# //
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="valeriabykova" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@em1963m" TIER_ID="text@em1963m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Василий Александрович вы / приехали издалека / вы у нас / и председатель колхоза / и помощник Кудрина / и как в том анекдоте и водитель у вас Путин да #смеется# / скажите вот ээ / почему? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>это ведь / ээ / я так понимаю и вы в этом участвовали //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ваше выступление на форуме кстати посмотрело несколько миллионов интернет-пользователей // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>вы очень популярный в интернете человек тоже //
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>вот который выпускает эти комбайны? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>то есть два завода? / два / одинаковых завода в разных государствах? / интересно / интересно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>и получилась вот эта вот справка? //
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>а она в интернете е… можно найти да? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>а он озна.. ознакомился уже я так понимаю да? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>а вы с ним уже созва... созвонились по этому поводу #смеется# //
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="valeriabykova" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@vam1954m"
+        PARTICIPANT="@vam1954m" TIER_ID="transl@vam1954m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Uhh... I didn't take a part in meeting, although of course  we had been preparing our people for this meeting.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>So I mean that our people are... Uhh... Organizers of Moscow Economic Forum...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>and also a federal village council. It's the social organization which nowadays starts uniting exactly villager... villagers.
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Yes, that's it, yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Well, it's true... uhh... so uhh... Konstantin Anatolievich Babkin is uhh the president of Rosagromash and he was a participant int this meeting.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Yes... Yes... It's exactly one of the founders of these factories... He is that one who works in Russia producing the harvesters. It's our Rostselmash, yeah. It's Rostov, yeah. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>And also there is the similar factory  producing tractors and harvesters in Canada.
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Yes. Two factories. Yes, absolutely. In the different countries, yeah.
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>
+And so, Konstantin Aleksandrovich told Putin that it is impossible to conduct industrial production in Russia at the moment. That is, Russia is not ready to have its own industrial economy.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Putin was surprised and told Konstantin Anatolyevich to prepare a report on the reasons why he was not transferring his production to Russia.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>
+Yes. Konstantin provided this report. He placed it on the Internet, in newspapers, everywhere.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>It's placed on the Internet. Echo Moskvy and others posted it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>This work contains a complete detailed analysis. This is a real analyst that describes the Kremlin's worthlessness in relation to Russian industrial policy.
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>It's very good... So there was the Putin's task... like... a question...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>I believe he must review </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>No, stop it...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Generally I believe he read it.  If he has not read it, we will let him know in any case.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>We will emboss it directly in Kremlin's emboss in stone. Because he needs to know that production is really unprofitable.
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>Why is it unprofitable?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>First, our tax policy is worthless compared to Canada's.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>We brag that we have the lowest (taxes) ... We invite Depardieu, some other artists. Do we have few of our own, excuse me, gays?
+
+We also invite foreigners... #unint#
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="valeriabykova" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@em1963m"
+        PARTICIPANT="@em1963" TIER_ID="transl@em1963">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>Vasily Alexandrovich, you have come afar. You are a chairman of kolkhoz, assistant of Kudrin and like in that joke your driver is Putin. Yeah #laugh#.  Tell us why?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>It's just... uhh... As I understand, you took a part there?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>By the way, your speech on the forum watched several millions of internet users.
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>You are also very popular person at the Internet. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Is it the one that makes these harvesters?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>So are there two factories? Are there two similar factories in different countries? It's interesting. It's interesting.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>So he made this report?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>So we can find it on the Internet?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Has he reviewed?
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Have you called him?
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_1dd3bd1e-347d-4451-a680-5da63b0ebcf3">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_58b243cb-0629-4b6d-89af-3f8d4516a3ef">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ee9d79c9-a150-4c3c-aba0-4defb83aea71">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_50c3ab35-dcb9-4ee6-abbb-e6cea642daa9">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_28b71304-8d72-4110-8685-a4c970a3bd54">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_bf7a4b35-abeb-43c1-8f0e-f4e12f1c0783">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d5d4eb6d-da48-450f-aa84-da6d6dc5e9de">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_18349459-706a-4d12-b1ed-b14c75bc6a7b">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b0df0942-5a3d-4480-b2bd-3bb2d60c1bcf">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b9ac19eb-b585-4f90-990d-cdfd655939ee">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c7e7eed6-4d98-4864-9f36-ee979eec4c7a">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_672a8913-5882-443a-a846-e78db474041d">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_68456695-e216-49be-a3db-c9e9ae6207a9">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_b3551c33-38f6-402d-9212-760848eba24e">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d615e2e8-8665-41b5-a005-acf4ce31946a">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_84f6f05b-8b39-4342-894d-7db142e69f7d">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_eab0ae62-4e51-4f6e-88ef-cb32e7f09285">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
